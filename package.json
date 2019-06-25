@@ -1,0 +1,19 @@
+{
+  "name": "mandelbrot-points",
+  "version": "1.0.0",
+  "description": "Get info at point level for the Mandelbrot set (any position, any scale)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mandelbrot",
+    "points"
+  ],
+  "author": "notsag-dev",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/notsag-dev/mandelbrot-points.git"
+  },
+  "license": "GPL-3.0"
+}
