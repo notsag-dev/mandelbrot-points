@@ -1,6 +1,6 @@
 {
   "name": "mandelbrot-points",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get info at point level for the Mandelbrot set (any position, any scale)",
   "main": "index.js",
   "scripts": {
